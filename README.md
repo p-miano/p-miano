@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Paula Miano 👋
 
-<!--
-**p-miano/p-miano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT Programmer-Analyst student at LaSalle College, Montreal, QC, graduating in December 2024. I’m have skills in the following technologies:
 
-Here are some ideas to get you started:
+- **Programming Languages:** C#, Java, Python, PHP, JavaScript, VBA
+- **Web Technologies:** HTML, CSS, SQL
+- **Data Analysis and BI Tools:** Power BI, SQL
+- **Frameworks:** .NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My GitHub Stats
+
+![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulamiano&show_icons=true&theme=default)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulamiano&layout=compact&theme=default)
+
+## Achievements
+
+![trophy](https://github-profile-trophy.vercel.app/?username=paulamiano&theme=default)
