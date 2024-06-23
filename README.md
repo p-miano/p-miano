@@ -12,6 +12,8 @@ I have skills in the following technologies:
 ## Currently Learning
 - Diving deeper into C# and the .NET framework
 
+## My Github stats
+
 ![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-miano&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=p-miano&layout=compact&theme=default)
