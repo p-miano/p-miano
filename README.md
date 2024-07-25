@@ -4,13 +4,16 @@ I'm an IT Programmer-Analyst student at LaSalle College, Montreal, QC, graduatin
 
 I have skills in the following technologies:
 
-- **Programming Languages:** C#, Java, Python, PHP, JavaScript, VBA
-- **Web Technologies:** HTML, CSS, SQL
-- **Data Analysis and BI Tools:** Power BI, SQL
-- **Frameworks:** .NET
+- **Programming Languages:** C#, Java, JavaScript, PHP, Python, Visual Basic, Swift
+- **Web Technologies:** HTML, CSS, ASP.Net Core MVC, Razor Pages, Blazor, Bootstrap, jQuery
+- **Frameworks and Applications:** .NET, ADO.NET, Entity Framework, RESTful APIs, Mobile Development
+- **Data Analysis and BI Tools:** SQL (SQL Server, MySQL, Oracle), NoSQL, Power BI, TIBCO Spotfire, Tableau, Excel
 
 ## Currently Learning
-- Diving deeper into C# and the .NET framework
+Diving deeper into web development with .NET.
+
+## Next Steps
+- .NET MAUI
 
 ## My Github stats
 
