@@ -1,19 +1,20 @@
 # Hi, I'm Paula Miano 👋
 
-I'm an IT Programmer-Analyst student at LaSalle College, Montreal, QC, graduating in December 2024. 
+I am a full stack developer.
 
 I have skills in the following technologies:
 
-- **Programming Languages:** C#, Java, JavaScript, PHP, Python, Visual Basic, Swift
-- **Web Technologies:** HTML, CSS, ASP.Net Core MVC, Razor Pages, Blazor, Bootstrap, jQuery
-- **Frameworks and Applications:** .NET, ADO.NET, Entity Framework, RESTful APIs, Mobile Development
-- **Data Analysis and BI Tools:** SQL (SQL Server, MySQL, Oracle), NoSQL, Power BI, TIBCO Spotfire, Tableau, Excel
+- **Programming Languages:** C#, Java, JavaScript, HTML, CSS, PHP, Python
+- **Frameworks:** ASP.Net Core MVC, React, Bootstrap, Razor Pages
+- **ORM:** Entity Framework, ADO.NET, Dapper
+- **Databases:** SQL (SQL Server, MySQL, Oracle), NoSQL (MongoDB)
+- **Mobile Development:** iOS (Swift on Xcode), Android (Java on Android Studio)
 
 ## Currently Learning
-Diving deeper into web development with .NET.
+Diving deeper into web development.
 
 ## Next Steps
-- .NET MAUI
+- Figure out the dance in the cloud.
 
 ## My Github stats
 
